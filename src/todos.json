@@ -1,0 +1,28 @@
+{
+    "todos":[
+        {
+            "title": "Tarea 1",
+            "responsible": "Chris",
+            "description": "Lorem ipsum",
+            "priority": "Baja"
+        },
+        {
+            "title": "Tarea 2",
+            "responsible": "Accel",
+            "description": "Lorem ipsum",
+            "priority": "Media"
+        },
+        {
+            "title": "Tarea 3",
+            "responsible": "Mishima",
+            "description": "Lorem ipsum",
+            "priority": "Alta"
+        },
+        {
+            "title": "Tarea 4",
+            "responsible": "Ahri",
+            "description": "Kda Song",
+            "priority": "Alta"
+        }
+    ]
+}
